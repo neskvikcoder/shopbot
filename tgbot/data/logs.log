@@ -1,4 +1,2 @@
-WARNING | 2025-01-23 15:19:56,238 | main.py:59 | BOT WAS STARTED
-ERROR | 2025-01-23 17:14:31,880 | dispatcher.py:219 | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2685)
-WARNING | 2025-01-23 17:14:31,896 | dispatcher.py:221 | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7639987422)
-WARNING | 2025-01-23 17:14:31,919 | main.py:86 | Bot was stopped
+WARNING | 2025-01-29 11:19:53,825 | main.py:59 | BOT WAS STARTED
+WARNING | 2025-01-29 11:35:34,542 | main.py:86 | Bot was stopped

@@ -46,11 +46,9 @@ def get_admins() -> list[int]:
 def get_desc() -> str:
     from tgbot.utils.const_functions import ded
 
-    # УДАЛИШЬ ИЛИ ИЗМЕНИШЬ ССЫЛКИ НА ДОНАТ, КАНАЛ И ТЕМУ БОТА - КАСТРИРУЮ НАХУЙ <3
-
     return ded(f"""
         <b>♻️ Версия бота: <code>{BOT_VERSION}</code>
-        👑 Разработчик бота - @djimbox
+        👑 Разработчик бота - @centikp
         🍩 Донат разработчику: <a href='https://t.me/send?start=IV8bjPKhYkYJ'>Click me</a>
         🤖 Канал с новостями и обновлениями: <a href='https://t.me/DJIMBO_SHOP'>Click me</a>
         🔗 Ссылка на топик с ботом [LOLZ]: <a href='https://lolz.guru/threads/1888814'>Click me</a></b>
